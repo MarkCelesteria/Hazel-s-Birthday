@@ -14,8 +14,8 @@ document.addEventListener("DOMContentLoaded", function () {
   let timesUp = false;
   let surprise = false;
   let i = 0;
-  let timeLeft = 20;
-  let age = 40;
+  let timeLeft = 30;
+  let age = 20;
 
   let countdownTimer = setInterval(function() {
     if (maxCandle) {
